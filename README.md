@@ -1,7 +1,6 @@
 # Umar - Personal portfolio
 
 
-
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -15,13 +14,13 @@ To install ****, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/personal-portfolio.git
+sudo git clone https://github.com/umaramin7/personal-portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/personal-portfolio.git
+git clone https://github.com/umaramin7/personal-portfolio.git
 ```
 
 ## Contact
