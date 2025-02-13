@@ -26,6 +26,7 @@ command:
 
 ```bash
 npx serve
+```
 
 If you want to contact me you can reach me at [email](umaramin78894@gmail.com).
 
