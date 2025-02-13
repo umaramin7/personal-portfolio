@@ -22,8 +22,10 @@ Windows:
 ```bash
 git clone https://github.com/umaramin7/personal-portfolio.git
 ```
+command:
 
-## Contact
+```bash
+npx serve
 
 If you want to contact me you can reach me at [email](umaramin78894@gmail.com).
 
